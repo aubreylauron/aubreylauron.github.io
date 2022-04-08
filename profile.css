@@ -1,10 +1,11 @@
+
 @charset "utf-8";
 /* CSS Document */
 
 body {
-    background-color: #545454;
+    background-color: #efd1e7;
     font-family: "Aerial", sans-serif;
-    font-weight: 300
+    font-weight: 200
 }
 
 .container {
@@ -12,13 +13,13 @@ body {
 }
 
 .card {
-    width: 380px;
+    width: 400px;
     border: none;
     border-radius: 15px;
     padding: 8px;
-    background-color: #fff;
+    background-color: rgb(103, 80, 97);
     position: relative;
-    height: 370px
+    height: 200x
 }
 
 .upper {
@@ -36,8 +37,8 @@ body {
 }
 
 .profile img {
-    height: 80px;
-    width: 80px;
+    height: 70px;
+    width: 70px;
     margin-top: 2px
 }
 
@@ -47,7 +48,7 @@ body {
     left: 38%;
     height: 90px;
     width: 90px;
-    border: 3px solid #fff;
+    border: 3px solid rgb(176, 135, 179);
     border-radius: 50%
 }
 
